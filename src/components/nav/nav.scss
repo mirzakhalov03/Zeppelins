@@ -1,0 +1,37 @@
+.nav{
+    max-width: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 15px 0;
+
+    .container{
+        padding: 20px 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+
+    .nav__img{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    ul{
+        display: flex;
+        gap: 30px;
+    }
+
+    select{
+        border: none;
+        background-color: transparent;
+        font-size: 14px;
+        border: .5px solid #00000076;
+        cursor: pointer;
+        padding: 2px 5px;
+        border-radius: 5px;
+    }
+
+    
+}

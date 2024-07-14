@@ -1,0 +1,34 @@
+.hero{
+    .hero__wrapper{
+        padding: 100px 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+
+        .hero__intro{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            max-width: 650px;
+            width: 100%;
+            h1{
+                color: #D05270;
+                font-size: 50px;
+                font-weight: 700;
+            }
+            p{
+                color: #424242;
+                font-size: 52px;
+            }
+            span{
+                color: #424242ce;
+            }
+
+            .social-links{
+                display: flex;
+                gap: 20px;
+            }
+        }
+    }
+}

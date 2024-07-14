@@ -1,0 +1,23 @@
+{
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "CV": "CV",
+    "contact": "Contact",
+    "store": "Store",
+    "freelance": "Freelance",
+    "aboutMe": "About me",
+    "hero-title": "Blog Posts!",
+    "hero-title2": "I think so, this is it.",
+    "hero-text": "Design begins after I begin to think about how to present an experience most successfully, whether a button I put in can solve a problem. The only point in design is not ui design, if the user does not have a good experience at the end of the product, the design will be considered unsuccessful in my opinion.",
+    "card-date": "Nov 23, 2020",
+    "card-title": "This is a nice UI design",
+    "card-text": "A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. ",
+    "card-link": "Read more",
+    "tab1": "All",
+    "tab2": "UI Design",
+    "tab3": "UX Design",
+    "tab4": "Product Design",
+    "tab5": "Articles",
+    "tab6": "Tutorials",
+    "tab7": "News"
+}
